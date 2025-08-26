@@ -1,5 +1,8 @@
 # pyLgClient (Qt single-window viewer + VNC input)
 
+
+![Screenshot](docs/screenshot.png)
+
 A lightweight Qt-based frontend that embeds an OpenGL viewer, reads frames from a Looking Glass–style shared memory buffer, and injects **mouse/keyboard** into the guest via **VNC**.
 
 ## What it does
